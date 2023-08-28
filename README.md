@@ -5,4 +5,4 @@
 
 
 # Conference
-[개발자가 아키텍처에 집착하는 이유는 뭘까? - 우아콘 2022](https://mavdev56.hashnode.dev/conference-2022)
+- [개발자가 아키텍처에 집착하는 이유는 뭘까? - 우아콘 2022](https://mavdev56.hashnode.dev/conference-2022)
