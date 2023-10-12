@@ -6,6 +6,7 @@
 - [Spring MVC 대신에 무조건 Spring WebFlux를 도입하는 것이 좋을까?](https://mavdev56.hashnode.dev/spring-spring-mvc-spring-webflux)
 - [웹플럭스의 마블 다이어그램에 대해](https://mavdev56.hashnode.dev/spring-webflux)
 - [Reactor Sinks에 대해](https://mavdev56.hashnode.dev/spring-reactive-reactor-sinks)
+- [Cloud Config Server 구축하기](https://mavdev56.hashnode.dev/spring-cloud-cloud-config-server)
 
 
 # Database
