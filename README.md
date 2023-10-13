@@ -7,6 +7,7 @@
 - [웹플럭스의 마블 다이어그램에 대해](https://mavdev56.hashnode.dev/spring-webflux)
 - [Reactor Sinks에 대해](https://mavdev56.hashnode.dev/spring-reactive-reactor-sinks)
 - [Cloud Config Server 구축하기](https://mavdev56.hashnode.dev/spring-cloud-cloud-config-server)
+- [넷플릭스 유레카(Eureka)를 통한 서비스 디스커버리 구현](https://mavdev56.hashnode.dev/spring-cloud-eureka)
 
 
 # Database
