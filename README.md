@@ -11,6 +11,7 @@
 - [Vault Config 구성하기](https://mavdev56.hashnode.dev/spring-cloud-vault-config)
 - [나쁜 상황에 대비한 Resilience4j 사용하기](https://mavdev56.hashnode.dev/spring-cloud-resilience4j)
 - [이벤트 기반 아키텍처란?](https://mavdev56.hashnode.dev/spring-cloud)
+- [OAuth2 인증 방식에 대해](https://mavdev56.hashnode.dev/spring-security-oauth2)
 
 
 # Database
