@@ -21,6 +21,9 @@
 # CI/CD
 - [Docker 컨테이너란 무엇인가](https://mavdev56.hashnode.dev/cicd-docker)
 
+# Software Development
+- [DDD : Domain Driven Design](https://mavdev56.hashnode.dev/ddd-domain-driven-design)
+
 
 # Conference
 - [개발자가 아키텍처에 집착하는 이유는 뭘까? - 우아콘 2022](https://mavdev56.hashnode.dev/conference-2022)
