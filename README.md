@@ -12,7 +12,7 @@
 - [나쁜 상황에 대비한 Resilience4j 사용하기](https://mavdev56.hashnode.dev/spring-cloud-resilience4j)
 - [이벤트 기반 아키텍처란?](https://mavdev56.hashnode.dev/spring-cloud)
 - [[Spring Security] OAuth2 인증 방식에 대해](https://mavdev56.hashnode.dev/spring-security-oauth2)
-
+- [Spring JPA] JPA는 왜 사용하는가(https://mavdev56.hashnode.dev/spring-jpa-jpa)
 
 # Database
 - [MongoDB에 대해 탐구해보자](https://mavdev56.hashnode.dev/database-mongodb)
