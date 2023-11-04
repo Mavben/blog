@@ -29,4 +29,4 @@
 - [개발자가 아키텍처에 집착하는 이유는 뭘까? - 우아콘 2022](https://mavdev56.hashnode.dev/conference-2022)
 - [로그인에 사용하는 OAuth : 과거, 현재 그리고 미래 - NHN FORWARD 22](https://mavdev56.hashnode.dev/conference-oauth-nhn-forward-22)
 - [개발 + 성장 = ? - INFCON 2023](https://mavdev56.hashnode.dev/conference)
-- [Spring JPA의 사실과 오해](https://mavdev56.hashnode.dev/conference-spring-jpa)
+- [Spring JPA의 사실과 오해 - NHN FORWORD 19](https://mavdev56.hashnode.dev/conference-spring-jpa)
