@@ -14,6 +14,7 @@
 - [[Spring Security] OAuth2 인증 방식에 대해](https://mavdev56.hashnode.dev/spring-security-oauth2)
 - [[Spring JPA] JPA는 왜 사용하는가](https://mavdev56.hashnode.dev/spring-jpa-jpa)
 - [Sleuth, Zipkin을 활용한 분산환경 구축하기](https://mavdev56.hashnode.dev/spring-sleuth-zipkin)
+- [[Kafka] 카프카 프로듀서의 처리량을 늘리려면](https://mavdev56.hashnode.dev/kafka)
 
 # Database
 - [MongoDB에 대해 탐구해보자](https://mavdev56.hashnode.dev/database-mongodb)
