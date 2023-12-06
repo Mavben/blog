@@ -28,6 +28,7 @@
 
 # Software Development
 - [DDD : Domain Driven Design](https://mavdev56.hashnode.dev/ddd-domain-driven-design)
+- [Git으로 버전 관리하기](https://mavdev56.hashnode.dev/git)
 
 
 # Conference
