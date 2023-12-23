@@ -1,5 +1,5 @@
 # Java
--[람다(Lambda)가 도입된 이유](https://mavdev56.hashnode.dev/java-lambda)
+- [람다(Lambda)가 도입된 이유](https://mavdev56.hashnode.dev/java-lambda)
 
 # Spring
 
