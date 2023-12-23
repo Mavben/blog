@@ -1,3 +1,6 @@
+# Java
+-[람다(Lambda)가 도입된 이유](https://mavdev56.hashnode.dev/java-lambda)
+
 # Spring
 
 - [스프링 프로젝트 구조 살펴보기](https://mavdev56.hashnode.dev/spring)
