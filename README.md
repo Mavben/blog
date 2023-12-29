@@ -1,6 +1,7 @@
 # Java
 - [람다(Lambda)가 도입된 이유](https://mavdev56.hashnode.dev/java-lambda)
 - [가비지 컬렉터(Garbage Collector) 프로세스](https://mavdev56.hashnode.dev/java-garbage-collector)
+- [병렬 처리에 대해 알아보자](https://mavdev56.hashnode.dev/java)
 
 
 # Spring
