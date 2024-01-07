@@ -20,7 +20,7 @@
 - [[Spring Security] OAuth2 인증 방식에 대해](https://mavdev56.hashnode.dev/spring-security-oauth2)
 - [[Spring JPA] JPA는 왜 사용하는가](https://mavdev56.hashnode.dev/spring-jpa-jpa)
 - [[Jpa] 트랜잭션 격리 수준으로 해결할 수 없는 문제](https://mavdev56.hashnode.dev/jpa)
-- [[Jpa] N+1 문제란(https://mavdev56.hashnode.dev/jpa-n1)
+- [[Jpa] N+1 문제란](https://mavdev56.hashnode.dev/jpa-n1)
 - [Sleuth, Zipkin을 활용한 분산환경 구축하기](https://mavdev56.hashnode.dev/spring-sleuth-zipkin)
 - [[Kafka] 카프카를 사용하는 이유는?](https://mavdev56.hashnode.dev/7lm07zse7lm066w8ioycroyaqe2vmouklcdsnbtsnkdripq)
 - [[Kafka] 카프카 프로듀서의 처리량을 늘리려면](https://mavdev56.hashnode.dev/kafka)
