@@ -37,6 +37,7 @@
 - [젠킨스, 도커로 CI 환경 구축하기](https://mavdev56.hashnode.dev/spring-ci)
 - [[Cloud] 프로메테우스와 그라파나를 통한 컨테이너 인프라 환경 구성하기](https://mavdev56.hashnode.dev/cloud)
 - [AWS Lambda로 웹 서버 만들기](https://mavdev56.hashnode.dev/aws-lambda?showSharer=true)
+- [AWS EC2 인스턴스에 서버 배포하기](https://mavdev56.hashnode.dev/aws-ec2)
 
 # Software Development
 - [DDD : Domain Driven Design](https://mavdev56.hashnode.dev/ddd-domain-driven-design)
