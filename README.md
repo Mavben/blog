@@ -28,6 +28,7 @@
 - [[Kafka] 카프카를 사용하는 이유는?](https://mavdev56.hashnode.dev/7lm07zse7lm066w8ioycroyaqe2vmouklcdsnbtsnkdripq)
 - [[Kafka] 카프카 프로듀서의 처리량을 늘리려면](https://mavdev56.hashnode.dev/kafka)
 - [Batch 프로젝트의 트러블 슈팅 해결하기](https://mavdev56.hashnode.dev/spring-batch)
+- [API Gateway 라이브러리](https://mavdev56.hashnode.dev/cloud-api-gateway)
 
 # Database
 - [MongoDB에 대해 탐구해보자](https://mavdev56.hashnode.dev/database-mongodb)
