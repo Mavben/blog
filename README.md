@@ -40,6 +40,7 @@
 - [[Cloud] 프로메테우스와 그라파나를 통한 컨테이너 인프라 환경 구성하기](https://mavdev56.hashnode.dev/cloud)
 - [AWS Lambda로 웹 서버 만들기](https://mavdev56.hashnode.dev/aws-lambda?showSharer=true)
 - [AWS EC2 인스턴스에 서버 배포하기](https://mavdev56.hashnode.dev/aws-ec2)
+- [RDS를 활용한 데이터베이스 scaling](https://mavdev56.hashnode.dev/rds-scaling)
 
 # Software Development
 - [DDD : Domain Driven Design](https://mavdev56.hashnode.dev/ddd-domain-driven-design)
